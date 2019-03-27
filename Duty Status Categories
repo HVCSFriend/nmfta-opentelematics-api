@@ -1,0 +1,8 @@
+Table 1		
+Duty Status Categories		
+		
+Duty Status	Abbreviation	Data Coding
+Off Duty	OFF	1
+Sleeper Berth	SB	2
+Driving	D	3
+On-duty Not Driving	ON	4
