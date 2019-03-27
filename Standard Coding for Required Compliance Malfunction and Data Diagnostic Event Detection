@@ -1,0 +1,19 @@
+Table 4		
+Standard Coding for Required Compliance Manlfunction and Data Diagnostic Event Detection		
+		
+Malfunction/Diagnostic Code		Malfunction Description
+P		"Power compliance" malfunction
+E		"Engine synchronization compliance" malfunction
+T		"Timing compliance" malfunction
+L		"Positioning compliance" malfunction
+R		"Data recording compliance" malfunction
+S		"Data transfer compliance" malfunction
+O		"Other" ELD detected malfunction
+		
+Malfunction/Diagnostic Code		Data Diagnostic Event
+1		"Power data diagnostic" event
+2		"Engine synchronization data diagnostic" event
+3		"Missing required data elements data diagnostic" event
+4		"Data transfer data diagnostic" event
+5		"Unidentified driving records data diagnostic" event
+6		"Other" ELD identified event
