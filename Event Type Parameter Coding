@@ -1,0 +1,25 @@
+Table 6		
+"Event Type" Parameter Coding		
+		
+Event Type	Event Code	Event Code Description
+1	1	Driver's duty status changed to "Off-Duty"
+1	2	Driver's duty status changed to "Sleeper Berth"
+1	3	Driver's duty status changed to "Driving"
+1	4	Driver's duty status changed to "On-duty not driving"
+2	1	Intermediate log with conventional location precision
+2	2	Intermediate log with reduced location precision
+3	1	Driver indicates "Authorized Personal Use of CMV"
+3	2	Driver indicates "Yard Moves"
+3	0	Driver indication for PC, YM and WT cleared
+4	1	Driver's first certification of a daily record
+4	n	Driver's n'th certification of a daily record (when recertification necessary), "n" is an integer between 1 and 9. If more than 9 certifications needed, use 9 for each new re-certification record
+5	1	Authenticated driver's ELD login activity
+5	2	Authenticated driver's ELD logout activity
+6	1	Engine power-up with conventional location precision
+6	2	Engine power-up with reduced location precision
+6	3	Engine shut down with conventional location precision
+6	4	Engine shut-downwith reduced location precision
+7	1	An ELD malfunction logged
+7	2	An ELD malfunction cleared
+7	3	A data diagnostic event logged
+7	4	A data diagnostic event cleared
