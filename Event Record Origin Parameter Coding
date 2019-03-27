@@ -1,0 +1,8 @@
+Table 7	
+"Event Record Origin" Parameter Coding	
+	
+Event Record Origin	Event Record Origin Code
+Automatically recorded by ELD	1
+Edited or entered by the Driver	2
+Edit requested by an Authenticated User other than the Driver	3
+Assumed from Unidentified Driver profile	4
