@@ -1,0 +1,8 @@
+Table 8	
+"Event Record Status" Parameter Coding	
+	
+Event Record Status	Event Record Status Code
+Active	1
+Inactive - Changed	2
+Inactive - Change Requested	3
+Inactive - Change Rejected	4
