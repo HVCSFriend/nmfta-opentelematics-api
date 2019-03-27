@@ -1,0 +1,8 @@
+Table 2		
+Categories for Driver's Indication of Situations Impacting Driving Time Recording		
+		
+		
+Category	Abbreviation	Data Coding
+Authorized Personal Use of CMV	PC	1
+Yard Moves	YM	2
+Default: None	---	0
